@@ -20,7 +20,7 @@ If the recursion depth gets too big, switch to heapsort
 Just simply enter array size or total number of elements to be sorted (Random numbers are generated because random function library is used in code)
 
 # OUTCOME
-Total number of unsorted elements are entered by user and through Introsort algorithm user get sorted array at the end. 
+Total number of unsorted elements are entered by user and through Introsort algorithm user getS sorted array at the end. 
 
 # REFERENCES
 https://en.wikipedia.org/wiki/Introsort
